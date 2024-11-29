@@ -6,9 +6,13 @@ public class ResourcesManager: MonoBehaviour
     public List<ResourcesItem> resourseItems = new List<ResourcesItem>();
    
     private ItemManager itemManager;
+    private void Awake()
+    {
+        Debug.Log(resourseItems.Count);
+    }
     private void Start()
     {
-        TEST();  
+      
 
     }
 
@@ -47,29 +51,7 @@ public class ResourcesManager: MonoBehaviour
 
         return false; 
     }
-    //public bool Purches(ItemObject item)
-    //{
-    //    bool purchased=false;
-
-    //    if(item.cost>0&&OpportunityTobuy(ResourcesType.Gold, item.cost))
-    //    {
-    //        ReducedResources(ResourcesType.Gold, item.cost);
-    //        item.ToogleActive();
-    //        purchased=true;
-    //    }
-
-    //    if(!purchased&&item.cost > 0 && OpportunityTobuy(ResourcesType.Silver, item.cost))
-    //    {
-    //        ReducedResources(ResourcesType.Silver, item.cost);
-    //        item.ToogleActive();
-    //        purchased = true;
-    //    }
-
-    //    if(purchased)
-    //        return purchased;
-
-    //        return false;
-    //}
+   
 
     private void ReducedResources(ResourcesType type, float cost)
     {

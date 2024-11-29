@@ -18,5 +18,5 @@ MonoBehaviour:
   cost: 20
   altCost: 150
   timeAfterPurches: 120
-  isAvailable: 1
-  timeRemaining: 107.47932
+  isAvailable: 0
+  timeRemaining: 120

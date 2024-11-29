@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class ItemManager : MonoBehaviour
 {
-    [SerializeField] private List<ItemObject> items = new List<ItemObject>();
+    public List<ItemObject> items = new List<ItemObject>();
 
     private void Start()
     {
@@ -55,7 +55,7 @@ public class ItemManager : MonoBehaviour
 
         return false;
     }
-    public ItemObject GetId(int id)
+    public ItemObject GetItem(int id)
     {
         foreach (var item in items)
         {
@@ -64,6 +64,17 @@ public class ItemManager : MonoBehaviour
                 return item;
         }
         return null;
+    }
+
+    public float GetTimeRemaning(int id)
+    {
+        foreach (var item in items)
+        {
+            if (item.id == id)
+
+                return item.timeRemaining ;
+        }
+        return 0;
     }
 }
 
