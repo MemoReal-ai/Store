@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\resoursesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resoursesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\resourcesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|e:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0442\u0440\u0435\u043D\u0438\u043D\u0433\\bitbucket\\assets\\scripts\\dataperesistense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dataperesistense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|e:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0442\u0440\u0435\u043D\u0438\u043D\u0433\\bitbucket\\assets\\scripts\\view\\vievitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\view\\vievitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\view\\vievitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\view\\costview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\view\\costview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\assets\\scripts\\view\\buttonpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B431B57-5E21-FCE8-EAEC-25E42E611643}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\view\\buttonpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "VievItems.cs",
               "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\View\\VievItems.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\View\\VievItems.cs",
               "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\View\\VievItems.cs",
               "RelativeToolTip": "Assets\\Scripts\\View\\VievItems.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwCgAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T09:25:46.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CostView.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\View\\CostView.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\View\\CostView.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\View\\CostView.cs",
-              "RelativeToolTip": "Assets\\Scripts\\View\\CostView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:45:04.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ButtonPurchase.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\View\\ButtonPurchase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\View\\ButtonPurchase.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\View\\ButtonPurchase.cs",
-              "RelativeToolTip": "Assets\\Scripts\\View\\ButtonPurchase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:35:46.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResoursesManager.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ResoursesManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ResoursesManager.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ResoursesManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ResoursesManager.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwCoAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:16:23.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResourcesItem.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ResourcesItem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourcesItem.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ResourcesItem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ResourcesItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:16:18.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemObject.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ItemObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemObject.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ItemObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ItemObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:16:11.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataPeresistense.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\DataPeresistense.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DataPeresistense.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\DataPeresistense.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DataPeresistense.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:16:03.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:15:50.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ItemManager.cs",
-              "DocumentMoniker": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ItemManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemManager.cs",
-              "ToolTip": "E:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0422\u0440\u0435\u043D\u0438\u043D\u0433\\BitBucket\\Assets\\Scripts\\ItemManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ItemManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:58:22.181Z",
               "EditorCaption": ""
             }
           ]
